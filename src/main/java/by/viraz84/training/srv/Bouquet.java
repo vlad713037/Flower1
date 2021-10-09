@@ -102,6 +102,7 @@ public class Bouquet implements InBouquet {
         return flo;
     }
 
+    
     public static List<Flower> sortBouquetByFreshness(Flower[] flowers){
         List<Flower> flo = new ArrayList<>();
         LOGGER.trace("Creating List<Flower> for sort");
@@ -149,5 +150,4 @@ public class Bouquet implements InBouquet {
         }
         return flo;
     }
-
 }
