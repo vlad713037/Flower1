@@ -2495,3 +2495,65 @@
 [DEBUG] 2021-10-09 14:35:43.990 [main] Bouquet  - Checking Freshness OldFresh for by.viraz84.training.flower.Gladiolus@77f80c04 
 [DEBUG] 2021-10-09 14:35:43.993 [main] Bouquet  - Checking Freshness OldFresh for by.viraz84.training.flower.Tulip@1dac5ef 
 [WARN ] 2021-10-09 14:35:43.993 [main] Bouquet  - __Flower not found__
+[DEBUG] 2021-10-09 16:41:39.987 [main] Bouquet  - The length of our array BEFORE check  2 
+[DEBUG] 2021-10-09 16:41:40.004 [main] Bouquet  - The length of our array AFTER check 2 
+[INFO ] 2021-10-09 16:41:40.005 [main] Bouquet  - Adding 1 flower Rose
+[DEBUG] 2021-10-09 16:41:40.005 [main] Bouquet  - The length of our array BEFORE check  2 
+[INFO ] 2021-10-09 16:41:40.006 [main] Bouquet  - Our new array 2 length
+[DEBUG] 2021-10-09 16:41:40.007 [main] Bouquet  - The length of our array AFTER check 4 
+[INFO ] 2021-10-09 16:41:40.007 [main] Bouquet  - Adding 2 flower Astra
+[DEBUG] 2021-10-09 16:41:40.008 [main] Bouquet  - The length of our array BEFORE check  4 
+[DEBUG] 2021-10-09 16:41:40.008 [main] Bouquet  - The length of our array AFTER check 4 
+[INFO ] 2021-10-09 16:41:40.008 [main] Bouquet  - Adding 3 flower Orchid
+[DEBUG] 2021-10-09 16:41:40.008 [main] Bouquet  - The length of our array BEFORE check  4 
+[INFO ] 2021-10-09 16:41:40.008 [main] Bouquet  - Our new array 4 length
+[DEBUG] 2021-10-09 16:41:40.009 [main] Bouquet  - The length of our array AFTER check 8 
+[INFO ] 2021-10-09 16:41:40.009 [main] Bouquet  - Adding 4 flower Gladiolus
+[DEBUG] 2021-10-09 16:41:40.009 [main] Bouquet  - The length of our array BEFORE check  8 
+[DEBUG] 2021-10-09 16:41:40.009 [main] Bouquet  - The length of our array AFTER check 8 
+[INFO ] 2021-10-09 16:41:40.009 [main] Bouquet  - Adding 5 flower Tulip
+[DEBUG] 2021-10-09 16:41:40.010 [main] Bouquet  - Price for a by.viraz84.training.flower.Rose@37883b97 flower
+[INFO ] 2021-10-09 16:41:40.010 [main] Bouquet  - Summa all added flowers  0.0 
+[DEBUG] 2021-10-09 16:41:40.011 [main] Bouquet  - Price for a by.viraz84.training.flower.Astra@6ab778a flower
+[INFO ] 2021-10-09 16:41:40.011 [main] Bouquet  - Summa all added flowers  9.5 
+[DEBUG] 2021-10-09 16:41:40.012 [main] Bouquet  - Price for a by.viraz84.training.flower.Orchid@4e3958e7 flower
+[INFO ] 2021-10-09 16:41:40.012 [main] Bouquet  - Summa all added flowers  14.8 
+[DEBUG] 2021-10-09 16:41:40.012 [main] Bouquet  - Price for a by.viraz84.training.flower.Gladiolus@77f80c04 flower
+[INFO ] 2021-10-09 16:41:40.013 [main] Bouquet  - Summa all added flowers  17.1 
+[DEBUG] 2021-10-09 16:41:40.013 [main] Bouquet  - Price for a by.viraz84.training.flower.Tulip@1dac5ef flower
+[INFO ] 2021-10-09 16:41:40.014 [main] Bouquet  - Summa all added flowers  27.6 
+[DEBUG] 2021-10-09 16:41:40.014 [main] Bouquet  - Price for a null flower
+[WARN ] 2021-10-09 16:41:40.015 [main] Bouquet  - __Flower not found__
+[INFO ] 2021-10-09 16:41:40.016 [main] Bouquet  - ALL PRICE of Bouquet  29.1 
+[DEBUG] 2021-10-09 16:41:40.018 [main] Bouquet  - Checking flower length by.viraz84.training.flower.Rose@37883b97 
+[DEBUG] 2021-10-09 16:41:40.018 [main] Bouquet  - Checking flower length by.viraz84.training.flower.Astra@6ab778a 
+[INFO ] 2021-10-09 16:41:40.019 [main] Bouquet  - Satisfies the parameters of the flower by.viraz84.training.flower.Astra@6ab778a, add it in List
+[DEBUG] 2021-10-09 16:41:40.019 [main] Bouquet  - Checking flower length by.viraz84.training.flower.Orchid@4e3958e7 
+[DEBUG] 2021-10-09 16:41:40.019 [main] Bouquet  - Checking flower length by.viraz84.training.flower.Gladiolus@77f80c04 
+[INFO ] 2021-10-09 16:41:40.019 [main] Bouquet  - Satisfies the parameters of the flower by.viraz84.training.flower.Gladiolus@77f80c04, add it in List
+[DEBUG] 2021-10-09 16:41:40.020 [main] Bouquet  - Checking flower length by.viraz84.training.flower.Tulip@1dac5ef 
+[INFO ] 2021-10-09 16:41:40.020 [main] Bouquet  - Satisfies the parameters of the flower by.viraz84.training.flower.Tulip@1dac5ef, add it in List
+[WARN ] 2021-10-09 16:41:40.020 [main] Bouquet  - __Flower not found__
+[DEBUG] 2021-10-09 16:41:40.022 [main] Bouquet  - Checking Freshness FullFresh for by.viraz84.training.flower.Rose@37883b97 
+[INFO ] 2021-10-09 16:41:40.022 [main] Bouquet  - Freshness  FullFresh of the flower by.viraz84.training.flower.Rose@37883b97, add it in List
+[DEBUG] 2021-10-09 16:41:40.022 [main] Bouquet  - Checking Freshness FullFresh for by.viraz84.training.flower.Astra@6ab778a 
+[DEBUG] 2021-10-09 16:41:40.023 [main] Bouquet  - Checking Freshness FullFresh for by.viraz84.training.flower.Orchid@4e3958e7 
+[DEBUG] 2021-10-09 16:41:40.024 [main] Bouquet  - Checking Freshness FullFresh for by.viraz84.training.flower.Gladiolus@77f80c04 
+[INFO ] 2021-10-09 16:41:40.024 [main] Bouquet  - Freshness  FullFresh of the flower by.viraz84.training.flower.Gladiolus@77f80c04, add it in List
+[DEBUG] 2021-10-09 16:41:40.024 [main] Bouquet  - Checking Freshness FullFresh for by.viraz84.training.flower.Tulip@1dac5ef 
+[WARN ] 2021-10-09 16:41:40.025 [main] Bouquet  - __Flower not found__
+[DEBUG] 2021-10-09 16:41:40.025 [main] Bouquet  - Checking Freshness MiddleFresh for by.viraz84.training.flower.Rose@37883b97 
+[DEBUG] 2021-10-09 16:41:40.026 [main] Bouquet  - Checking Freshness MiddleFresh for by.viraz84.training.flower.Astra@6ab778a 
+[INFO ] 2021-10-09 16:41:40.026 [main] Bouquet  - Freshness  MiddleFresh of the flower by.viraz84.training.flower.Astra@6ab778a, add it in List
+[DEBUG] 2021-10-09 16:41:40.029 [main] Bouquet  - Checking Freshness MiddleFresh for by.viraz84.training.flower.Orchid@4e3958e7 
+[DEBUG] 2021-10-09 16:41:40.030 [main] Bouquet  - Checking Freshness MiddleFresh for by.viraz84.training.flower.Gladiolus@77f80c04 
+[DEBUG] 2021-10-09 16:41:40.030 [main] Bouquet  - Checking Freshness MiddleFresh for by.viraz84.training.flower.Tulip@1dac5ef 
+[INFO ] 2021-10-09 16:41:40.033 [main] Bouquet  - Freshness  MiddleFresh of the flower by.viraz84.training.flower.Tulip@1dac5ef, add it in List
+[WARN ] 2021-10-09 16:41:40.033 [main] Bouquet  - __Flower not found__
+[DEBUG] 2021-10-09 16:41:40.034 [main] Bouquet  - Checking Freshness OldFresh for by.viraz84.training.flower.Rose@37883b97 
+[DEBUG] 2021-10-09 16:41:40.034 [main] Bouquet  - Checking Freshness OldFresh for by.viraz84.training.flower.Astra@6ab778a 
+[DEBUG] 2021-10-09 16:41:40.035 [main] Bouquet  - Checking Freshness OldFresh for by.viraz84.training.flower.Orchid@4e3958e7 
+[INFO ] 2021-10-09 16:41:40.035 [main] Bouquet  - Freshness  OldFresh of the flower by.viraz84.training.flower.Orchid@4e3958e7, add it in List
+[DEBUG] 2021-10-09 16:41:40.035 [main] Bouquet  - Checking Freshness OldFresh for by.viraz84.training.flower.Gladiolus@77f80c04 
+[DEBUG] 2021-10-09 16:41:40.036 [main] Bouquet  - Checking Freshness OldFresh for by.viraz84.training.flower.Tulip@1dac5ef 
+[WARN ] 2021-10-09 16:41:40.036 [main] Bouquet  - __Flower not found__
